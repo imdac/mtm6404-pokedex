@@ -9,7 +9,7 @@ Use Vue, Vue CLI, Vue Router, and the PokeAPI to create a Pokedex web applicatio
 npm install
 
 ### Start Development Server
-npm run serve
+npm run dev
 
 ## Resources
 
